@@ -3,4 +3,4 @@
 🏆 Some projects that I'm proud of:
 - [minesweeper\_auto-solver](https://github.com/ediberbe/minesweeper_auto-solver) - Recreation of the Minesweeper game with an integrated auto-solver.
 - [desktop\_controller](https://github.com/ediberbe/desktop_controller) - Control mouse/keyboard using controller. 
-- [action\_manager](https://github.com/ediberbe/action_manager) - Animation/Movement manager for future games. 
+- [arduino\_snake](https://github.com/ediberbe/arduino_snake) - snake game made with arduino board and 8x8 LED matrix
