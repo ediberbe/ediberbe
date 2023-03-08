@@ -1,4 +1,4 @@
-😎 My name is Edi Berbescu and [this is my CV.](https://ediberbe.github.io/cv/cv.html)  
+😎 My name is Edi Berbescu and [this is my website.](https://ediberbe.github.io/)  
 
 🏆 Some projects that I'm proud of:
 - [desktop\_controller](https://github.com/ediberbe/desktop_controller) - Control mouse/keyboard using controller. 
